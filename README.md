@@ -13,9 +13,13 @@ I'm a **Full Stack Software Engineer** at [SettleMint](https://settlemint.com) b
 - 🦅 Nature enthusiast who codes - my pet projects often involve wildlife and biodiversity
 - 🛠️ From K8s clusters to WiFi wildlife cameras, I build it all!
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ## 🛠️ My Toolkit
 
-🎨 **Frontend:** Next.js, React  
+🎨 **Frontend:** Next.js, React, Expo  
 ⚡ **Backend:** Nest.js  
 🚀 **Runtime:** Bun  
 ☸️ **Infrastructure:** Kubernetes  
@@ -24,6 +28,9 @@ I'm a **Full Stack Software Engineer** at [SettleMint](https://settlemint.com) b
 
 *...and many more tools or languages depending on what needs building!*
 
+</td>
+<td width="50%" valign="top">
+
 ## 🎯 What I'm Up To
 
 - 🏗️ Building scalable blockchain infrastructure at SettleMint
@@ -31,21 +38,24 @@ I'm a **Full Stack Software Engineer** at [SettleMint](https://settlemint.com) b
 - 📡 Experimenting with IoT devices for wildlife monitoring
 - 🤖 Always learning the latest in AI coding tools and general coding tooling
 
+</td>
+</tr>
+</table>
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RobbeVerhelst&show_icons=true&theme=forest&hide_border=true&count_private=true" alt="GitHub Stats" />
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=RobbeVerhelst&show_icons=true&theme=forest&hide_border=true&count_private=true" alt="GitHub Stats" />
+</td>
+<td>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RobbeVerhelst&theme=forest&hide_border=true" alt="GitHub Streak" />
+</td>
+</tr>
+</table>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RobbeVerhelst&theme=forest&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobbeVerhelst&layout=compact&theme=forest&hide_border=true" alt="Top Languages" />
-</div>
-
-
 
 ## 🤝 Let's Connect!
 
