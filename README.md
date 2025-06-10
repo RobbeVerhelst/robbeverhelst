@@ -13,7 +13,7 @@ I'm a **Full Stack Software Engineer** at [SettleMint](https://settlemint.com) b
 - 🦅 Nature enthusiast who codes - my pet projects often involve wildlife and biodiversity
 - 🛠️ From K8s clusters to WiFi wildlife cameras, I build it all!
 
-<table>
+<table border="0">
 <tr>
 <td width="50%" valign="top">
 
@@ -45,7 +45,7 @@ I'm a **Full Stack Software Engineer** at [SettleMint](https://settlemint.com) b
 ## 📊 GitHub Stats
 
 <div align="center">
-<table>
+<table border="0">
 <tr>
 <td>
 <img src="https://github-readme-stats.vercel.app/api?username=RobbeVerhelst&show_icons=true&theme=forest&hide_border=true&count_private=true" alt="GitHub Stats" />
