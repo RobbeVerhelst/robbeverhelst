@@ -13,9 +13,9 @@ I'm a **Full Stack Software Engineer** at [SettleMint](https://settlemint.com) b
 - 🦅 Nature enthusiast who codes - my pet projects often involve wildlife and biodiversity
 - 🛠️ From K8s clusters to WiFi wildlife cameras, I build it all!
 
-<table border="0">
+<table style="border-collapse: collapse; border: none;">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="border: none;">
 
 ## 🛠️ My Toolkit
 
@@ -29,7 +29,7 @@ I'm a **Full Stack Software Engineer** at [SettleMint](https://settlemint.com) b
 *...and many more tools or languages depending on what needs building!*
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="border: none;">
 
 ## 🎯 What I'm Up To
 
@@ -45,12 +45,12 @@ I'm a **Full Stack Software Engineer** at [SettleMint](https://settlemint.com) b
 ## 📊 GitHub Stats
 
 <div align="center">
-<table border="0">
+<table style="border-collapse: collapse; border: none;">
 <tr>
-<td>
+<td style="border: none;">
 <img src="https://github-readme-stats.vercel.app/api?username=RobbeVerhelst&show_icons=true&theme=forest&hide_border=true&count_private=true" alt="GitHub Stats" />
 </td>
-<td>
+<td style="border: none;">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RobbeVerhelst&theme=forest&hide_border=true" alt="GitHub Streak" />
 </td>
 </tr>
