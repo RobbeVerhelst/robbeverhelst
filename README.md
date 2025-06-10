@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a **Full Stack Software Engineer** at [SettleMint](https://settlemint.com) based in beautiful Belgium 🇧🇪. I love building everything from scalable infrastructure to fun apps, and even tinkering with hardware like ESP32 modules!
+I'm a **Full Stack Software Engineer** at [SettleMint](https://settlemint.com) based in beautiful Belgium 🇧🇪. I love building everything from scalable infrastructure to fun apps, and even tinkering with hardware!
 
 - 🔭 Currently working on scalable blockchain infrastructure at SettleMint
 - 🌱 Always exploring new technologies across the entire stack
