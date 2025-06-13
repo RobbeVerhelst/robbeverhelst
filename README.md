@@ -8,10 +8,9 @@
 
 I'm a **Full Stack Software Engineer** at [SettleMint](https://settlemint.com) based in beautiful Belgium 🇧🇪. I love building everything from scalable infrastructure to fun apps, and even tinkering with hardware!
 
-- 🔭 Currently working on scalable blockchain infrastructure at SettleMint
-- 🌱 Always exploring new technologies across the entire stack
-- 🦅 Nature enthusiast who codes - my pet projects often involve wildlife and biodiversity
-- 🛠️ From K8s clusters to WiFi wildlife cameras, I build it all!
+- 🔭 Building scalable blockchain infrastructure at SettleMint
+- 🦅 Nature enthusiast who codes - combining wildlife passion with technology
+- 🛠️ From K8s clusters to IoT devices, I love building diverse solutions
 
 <table style="border-collapse: collapse; border: none;">
 <tr>
@@ -22,6 +21,7 @@ I'm a **Full Stack Software Engineer** at [SettleMint](https://settlemint.com) b
 🎨 **Frontend:** Next.js, React, Expo  
 ⚡ **Backend:** Nest.js  
 🚀 **Runtime:** Bun  
+
 ☸️ **Infrastructure:** Kubernetes  
 🔄 **CI/CD:** GitHub Actions  
 💙 **Language:** TypeScript everywhere  
@@ -34,7 +34,7 @@ I'm a **Full Stack Software Engineer** at [SettleMint](https://settlemint.com) b
 ## 🎯 What I'm Up To
 
 - 🏗️ Building scalable blockchain infrastructure at SettleMint
-- 🔭 **[observation-js](https://github.com/RobbeVerhelst/observation-js)** - A fully-typed TypeScript client for the waarneming.nl API, helping researchers and nature enthusiasts access biodiversity data
+- 🔭 **[observation-js](https://github.com/RobbeVerhelst/observation-js)** - TypeScript client for biodiversity APIs, connecting researchers with nature data
 - 📡 Experimenting with IoT devices for wildlife monitoring
 - 🤖 Always learning the latest in AI coding tools and general coding tooling
 
@@ -45,16 +45,7 @@ I'm a **Full Stack Software Engineer** at [SettleMint](https://settlemint.com) b
 ## 📊 GitHub Stats
 
 <div align="center">
-<table style="border-collapse: collapse; border: none;">
-<tr>
-<td style="border: none;">
-<img src="https://github-readme-stats.vercel.app/api?username=RobbeVerhelst&show_icons=true&theme=forest&hide_border=true&count_private=true" alt="GitHub Stats" />
-</td>
-<td style="border: none;">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RobbeVerhelst&theme=forest&hide_border=true" alt="GitHub Streak" />
-</td>
-</tr>
-</table>
 </div>
 
 ## 🤝 Let's Connect!
