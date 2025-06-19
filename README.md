@@ -34,7 +34,7 @@ I'm a **Full Stack Software Engineer** at [SettleMint](https://settlemint.com) b
 ## 🎯 What I'm Up To
 
 - 🏗️ Building scalable blockchain infrastructure at SettleMint
-- 🔭 **[observation-js](https://github.com/RobbeVerhelst/observation-js)** - TypeScript client for biodiversity APIs, connecting researchers with nature data
+- 🔭 **[observation-js](https://github.com/robbeverhelst/observation-js)** - TypeScript client for biodiversity APIs, connecting researchers with nature data
 - 📡 Experimenting with IoT devices for wildlife monitoring
 - 🤖 Always learning the latest in AI coding tools and general coding tooling
 
@@ -45,7 +45,24 @@ I'm a **Full Stack Software Engineer** at [SettleMint](https://settlemint.com) b
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RobbeVerhelst&theme=forest&hide_border=true" alt="GitHub Streak" />
+<table style="border-collapse: collapse; border: none;">
+<tr>
+<td style="border: none;">
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=robbeverhelst&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+</td>
+<td style="border: none;">
+<img height="200" src="https://streak-stats.demolab.com/?user=robbeverhelst&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=robbeverhelst&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=robbeverhelst&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
 ## 🤝 Let's Connect!
@@ -61,7 +78,7 @@ I'm a **Full Stack Software Engineer** at [SettleMint](https://settlemint.com) b
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RobbeVerhelst&color=green&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=robbeverhelst&color=green&style=flat-square" alt="Profile Views" />
   
   *"Building cool stuff, one commit at a time"* 🚀
 </div>
