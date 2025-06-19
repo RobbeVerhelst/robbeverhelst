@@ -48,7 +48,7 @@ I'm a **Full Stack Software Engineer** at [SettleMint](https://settlemint.com) b
 <table style="border-collapse: collapse; border: none;">
 <tr>
 <td style="border: none;">
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=robbeverhelst&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=robbeverhelst&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </td>
 <td style="border: none;">
 <img height="200" src="https://streak-stats.demolab.com/?user=robbeverhelst&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
