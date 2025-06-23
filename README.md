@@ -45,7 +45,7 @@ I'm a **Full Stack Software Engineer** at [SettleMint](https://settlemint.com) b
 ## 📊 GitHub Stats
 
 <div align="center">
-![GitHub Streak](https://streak-stats.robbeverhelst.com/?user=robbeverhelst&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 </div>
 
 ## 🤝 Let's Connect!
